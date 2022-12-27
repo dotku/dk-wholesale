@@ -32,7 +32,7 @@ sold below $240, nobody has sold below that.
 
 ## Returns Policy 
 
-** Subjected To Change, please refer to [Terms 
+** Subjected To Change, please refer to [Cranberry Terms 
 Conditions](https://www.cranberryusa.com/terms-conditions) for 
 most updated content.
 
