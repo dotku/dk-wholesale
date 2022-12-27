@@ -4,7 +4,7 @@
 
 The 4 qualified end customers for Evolve are
 
-  a. GPO (provide GPO vendor code)
+  a. GPO (provide GPO vendor code)  
   b. Healthcare Facility (provide NIH code)  
   c. Government (provide CAGE code and SAMS contract #)  
   d. Retail (provide Retailer vendor code)  
