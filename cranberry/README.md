@@ -26,3 +26,22 @@ price and that price is usually below the buy price so we haven't
 had any issues on this. For example Evolve are not allowed to be 
 sold below $240, nobody has sold below that.
 
+RETURNS POLICY
+** Subjected To Change, please refer to [Terms 
+Conditions](https://www.cranberryusa.com/terms-conditions) for 
+most updated content.
+
+The Customer agrees that any product that want to return will be 
+per approval of Cranberry USA and returned products be handled in 
+accordance with, and shall be subject to, Cranberry USA’s Return 
+Policy. 
+
+Customer must contact Cranberry USA for approval prior to arrangement 
+of return. All returns are subject to a 35% restocking fee, plus 
+shipping and handling costs. No returns or cancellation are allowed 
+on custom private label or special orders. No return on partial orders. 
+All returns must be approved by Cranberry USA before a refund is issued. 
+Amount of refunds, credits, or exchange, at the discretion of the 
+Cranberry USA, will be issued after the product has been returned to 
+Cranberry USA by Customer. 
+
