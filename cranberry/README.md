@@ -50,3 +50,9 @@ Amount of refunds, credits, or exchange, at the discretion of the
 Cranberry USA, will be issued after the product has been returned to 
 Cranberry USA by Customer. 
 
+## Partnership
+
+We have connection with following partners:
+- H&D International Inc
+- ZY International Trade Inc
+
